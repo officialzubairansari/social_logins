@@ -3,7 +3,7 @@
 Demo: Instagram (Screenshot)
 ![image](https://github.com/officialzubairansari/social_logins/assets/26526913/d9385f06-c2a4-4a98-b1bf-f3579a251d71)
 
-Demo: Instagram (Screenshot): WIP
+Demo: Facebook (Screenshot): WIP
 
 # How to use?
 
