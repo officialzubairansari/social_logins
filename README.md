@@ -1,10 +1,9 @@
 # Instagram & Facebook Phishing Pages 2024 (Laravel 10)
 
-Demo: Instagram https://humsaz.com.pk/instagram
-Instagram (Screenshot)
+Demo: Instagram (Screenshot)
 ![image](https://github.com/officialzubairansari/social_logins/assets/26526913/d9385f06-c2a4-4a98-b1bf-f3579a251d71)
 
-Demo: Facebook https://humsaz.com.pk/facebook
+Demo: Instagram (Screenshot): WIP
 
 # How to use?
 
