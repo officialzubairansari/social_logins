@@ -58,7 +58,7 @@ body{
     border: 1px solid #3897f0;
     border-radius: 4px;
     text-align: center;
-    padding: 2px;
+    padding: 2px !important;
     color: #fff;
     cursor: pointer;
 }
@@ -172,9 +172,4 @@ body{
 a {
     color: black;
     text-decoration: none;
-}
-
-.submit-button-padding {
-	padding-left: 100px !important;
-	padding-right: 100px !important;
 }
