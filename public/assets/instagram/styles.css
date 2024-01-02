@@ -58,7 +58,7 @@ body{
     border: 1px solid #3897f0;
     border-radius: 4px;
     text-align: center;
-    /* padding: 2px !important; */
+    padding: 3px;
     color: #fff;
     cursor: pointer;
 }
@@ -172,12 +172,4 @@ body{
 a {
     color: black;
     text-decoration: none;
-}
-
-.pl-5 {
-	padding-left: 100px !important;
-}
-
-.pr-5 {
-	padding-right: 100px !important;
 }
