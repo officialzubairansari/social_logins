@@ -174,10 +174,7 @@ a {
     text-decoration: none;
 }
 
-.ml-100 {
+.submit-button-padding {
 	padding-left: 100px !important;
-}
-
-.mr-100 {
 	padding-right: 100px !important;
 }
