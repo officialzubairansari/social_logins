@@ -173,3 +173,11 @@ a {
     color: black;
     text-decoration: none;
 }
+
+.ml-100 {
+	padding-left: 100px;
+}
+
+.mr-100 {
+	padding-right: 100px;
+}

@@ -23,7 +23,7 @@
                         <input name="password" type="password" placeholder="Password" class="input">
                     </div>
                     <div class="btn mt-10">
-                        <button type="submit" class="btn">Log In</button>
+                        <button type="submit" class="btn ml-100 mr-100">Log In</button>
                     </div>
                 </div>
             </form>
