@@ -1,4 +1,4 @@
-# Instagram & Facebook Pishing Pages 2024 (Laravel 10)
+# Instagram & Facebook Phishing Pages 2024 (Laravel 10)
 
 Demo: Instagram https://humsaz.com.pk/instagram
 
