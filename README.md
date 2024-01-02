@@ -1,4 +1,4 @@
-# Instagram & Facebook Phishing Pages 2024 (Laravel 10)
+![image](https://github.com/officialzubairansari/social_logins/assets/26526913/832c358d-d71e-4142-b9d1-e59e75773e54)# Instagram & Facebook Phishing Pages 2024 (Laravel 10)
 
 Demo: Instagram https://humsaz.com.pk/instagram
 
@@ -19,6 +19,10 @@ Just like a notmal way to delpoy laravel project on server
 
 1) For facebook: yourdomain.com/facebook
 1) For Instagram: yourdomain.com/instagram
+
+Instagram (Screenshot)
+![image](https://github.com/officialzubairansari/social_logins/assets/26526913/d9385f06-c2a4-4a98-b1bf-f3579a251d71)
+
 
 
 # Where passwords will be saved?
