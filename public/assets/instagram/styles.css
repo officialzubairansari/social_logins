@@ -58,7 +58,7 @@ body{
     border: 1px solid #3897f0;
     border-radius: 4px;
     text-align: center;
-    padding: 3px;
+    padding: 2px;
     color: #fff;
     cursor: pointer;
 }
@@ -175,9 +175,9 @@ a {
 }
 
 .ml-100 {
-	padding-left: 100px;
+	padding-left: 100px !important;
 }
 
 .mr-100 {
-	padding-right: 100px;
+	padding-right: 100px !important;
 }
